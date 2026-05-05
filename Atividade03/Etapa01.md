@@ -156,4 +156,4 @@ A IA não pode realizar cancelamentos, alterar endereço, modificar dados do ped
 
 **Link Esqueleto simples projeto final**
 
-https://www.figma.com/design/eHKNfuyt93Qx2dzSXp401W/Rascunho-Projeto-final--esqueleto-simples-?node-id=0-1&t=ccAoZkbIVASLs2rC-1
+https://www.figma.com/proto/eHKNfuyt93Qx2dzSXp401W/Rascunho-Projeto-final--esqueleto-simples-?node-id=19-571&p=f&t=mh3FBXqGJzzQL8ye-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A571
